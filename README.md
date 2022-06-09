@@ -15,7 +15,7 @@ Clone repository
 ```sh
 git clone https://github.com/PixlOne/logiops.git
 ```
-Copy and Paste the following commands in terminal
+Copy and Paste the following commands in terminal. If you have problems with the commands below try with sudo
 
 ```sh
 cd logiops
@@ -29,6 +29,8 @@ Install
 ```sh
 sudo make install
 ```
+
+Copy and paste logid.cfg content into file located in /etc/logid.cfg. If file logid.cfg not exist just create new one. 
 
 Start using
 
